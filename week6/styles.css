@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.search-container {
+    margin: 20px;
+}
+
+#location {
+    padding: 10px;
+    width: 200px;
+}
+
+#search {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#search:hover {
+    background-color: #0056b3;
+}
+
+#weather-info {
+    margin: 20px;
+}
